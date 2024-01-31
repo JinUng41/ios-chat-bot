@@ -1,10 +1,8 @@
-# README
-
 # GPT ChatBot Project
 
 ## 📋 개요
 
-GPT API를 이용한 챗봇 프로젝트
+OpenAI API를 이용한 챗봇 프로젝트
 
 ### 🙋 팀원
 
@@ -118,7 +116,7 @@ GPT API를 이용한 챗봇 프로젝트
 ```
 ### 동작 화면
 | 채팅방 생성 | CoreData 저장 | 최근 대화순 | 채팅방 삭제|
-|-----------|----------|-----------|-----------|
+|-----------|---------|-----------|-----------|
 |![채팅방 생성](https://github.com/tasty-code/ios-chat-bot/assets/91656206/20ac62b3-4f85-4998-8be8-e6ccc8ef64e9)|![CoreData 저장](https://github.com/tasty-code/ios-chat-bot/assets/91656206/fc35d7cb-1a0a-4178-9bc9-e4bbd469aa55)|![최근 대화순](https://github.com/tasty-code/ios-chat-bot/assets/91656206/3c304828-41c3-4e66-becf-3fcceaa8f9c1)|![삭제후재실행](https://github.com/tasty-code/ios-chat-bot/assets/91656206/028789c4-486b-44e3-a947-fcfe79fcf36f)
 
 ## 🧐 객체의 역할
