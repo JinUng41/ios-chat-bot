@@ -219,13 +219,13 @@ OpenAI API를 이용한 챗봇 프로젝트
 ### URLSession
 
 - **Swift Concurrency**을 이용한 API 통신
-- API 엔드 포인트를 위한 **프로토콜 추상화** 및 해당 프로토콜을 채택하는 `enum` ****설계
+- API 엔드 포인트를 위한 **프로토콜 추상화** 및 해당 프로토콜을 채택하는 `enum` 설계
 
 ### CollectionView
 
 - **Modern Cell Configuration** (`UIContentConfiguration`)
 - 테이블뷰의 기능과 마찬가지로 **ListCell**을 이용한 **셀 삭제** 구현
-- `CellRegistration` & `DiffableDataSource` ****로 구성
+- `CellRegistration` & `DiffableDataSource`
 
 ### Core Graphics & Animation
 
